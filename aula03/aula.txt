@@ -1,0 +1,18 @@
+npm install express -E : Indica uma versão especifica que nunca será atualizada
+
+npm install express --save-dev ou -prod : Salve no ambiente q vc quer
+
+npm instal express@2.1.0: no caso instala a versão desejada
+
+
+
+
+2.       1.       0
+major   minor    patch
+
+
+^ "express": "^2.1.0"
+
+no caso aqui a minor e a patch pode ser alterados a major quando tiver circunflexo a major não altera
+
+npm uninstall express
